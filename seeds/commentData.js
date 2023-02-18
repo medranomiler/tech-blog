@@ -4,17 +4,17 @@ const { Comment } = require('../models');
 
 const commentData = [
 {
-    "content": "This is test comment 1",
+    "content": "ORM is so cool",
     "user_id": "2",
     "post_id": "3"
     },
     {
-    "content": "This is test comment 1",
+    "content": "MVC is really important. Thanks!",
     "user_id": "3",
     "post_id": "1"
     },
     {
-    "content": "This is test comment 1",
+    "content": "I now know the differences between Authentication and Authorization!",
     "user_id": "1",
     "post_id": "2"
     }
