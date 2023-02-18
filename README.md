@@ -69,6 +69,15 @@ Visit the deployed app at this url: [?.herokuapp.com](https://?.herokuapp.com/)
 - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 ## Screenshots
+<img width="1014" alt="Screenshot 2023-02-18 at 12 06 29 AM" src="https://user-images.githubusercontent.com/67513942/219844541-c8ddd79c-bd70-46fd-924c-f88b3e576ac1.png">
+
+<img width="1014" alt="Screenshot 2023-02-18 at 12 06 17 AM" src="https://user-images.githubusercontent.com/67513942/219844581-3b29757d-68ef-4d4d-9776-fdac7c4dd905.png">
+
+<img width="1014" alt="Screenshot 2023-02-18 at 12 08 42 AM" src="https://user-images.githubusercontent.com/67513942/219844550-422dfc8b-2ec8-4063-b7bc-62cb8b89664b.png">
+
+<img width="1014" alt="Screenshot 2023-02-18 at 12 09 36 AM" src="https://user-images.githubusercontent.com/67513942/219844562-2057e2b8-7708-4c78-abbc-95eb5b81dc4c.png">
+
+<img width="1014" alt="Screenshot 2023-02-18 at 12 08 56 AM" src="https://user-images.githubusercontent.com/67513942/219844571-5a288dee-a165-4b7b-879f-656640648a3c.png">
 
 ## Contributors
 - [Connor Bodin](https://github.com/connorbodin)
