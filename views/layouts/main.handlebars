@@ -19,7 +19,7 @@
         <a href="/profile" class="no-button">Dashboard</a> |
         {{#if logged_in}}
         <a href="/profile" class="no-button">Profile</a> |
-        <button class="no-button p-5" id="logout">Logout</button>
+        <button class="no-button" id="logout">Logout</button>
         {{else}}
         <a href="/login" class="no-button">Login</a>
         {{/if}}
@@ -44,6 +44,7 @@
   <!-- Render script for logged in users only -->
   {{#if logged_in}}
   <script src="/js/logout.js"></script>
+  <script src="/js/comments.js"></script>
   {{/if}}
 </body>
 
