@@ -13,7 +13,10 @@ This is a proof-of-concept blog app that uses JavaScript, and Handlebars.js. See
 - [Liscense](#license)
 
 ## Getting Started
-Visit the deployed app at this url: [?.herokuapp.com](https://?.herokuapp.com/)
+1. Visit the deployed app at this url: [the-tech-blog.herokuapp.com](https://the-tech-blog.herokuapp.com/)
+2. Sign Up
+3. Start blogging
+4. Leave a comment
 
 ## User Story 
 - AS A developer who writes about tech
