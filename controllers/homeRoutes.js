@@ -35,10 +35,16 @@ router.get('/post/:id', withAuth, async (req, res) => {
           model: User,
           attributes: ['name'],
         },
-        // {
-        //   model: Comment,
-        //   attributes: ['content', 'user_id', 'created_at']
-        // },
+        {
+          model: Comment,
+          attributes: ['content', 'user_id', 'date_created'],
+          include: [
+            {
+              model: User,
+              attributes: ['name']
+            }
+          ]
+        }
         // {
         //             model: Comment,
         //             attributes: ['content', 'user_id', 'created_at'],
