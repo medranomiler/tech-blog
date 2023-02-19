@@ -10,5 +10,25 @@
   {
     "name": "Object-Relational Mapping",
     "description": "I have really loved learning about ORMs. It's really simplified the way I create queries in SQL!"
+  },
+  {
+    "name": "The Power of CSS Grid",
+    "description": "CSS Grid is a powerful tool for creating complex layouts on the web. With just a few lines of code, you can create sophisticated designs that adapt to different screen sizes and devices."
+  },
+  {
+    "name": "The Benefits of Test-Driven Development",
+    "description": "Test-Driven Development (TDD) is a software development process that emphasizes writing automated tests before writing the actual code. TDD can lead to more reliable and maintainable code."
+  },
+  {
+    "name": "Why Accessibility Matters",
+    "description": "Accessibility is a crucial consideration when building websites and applications. Ensuring that your content is accessible to all users can improve user experience."
+  },
+  {
+    "name": "The Art of Debugging",
+    "description": "Debugging is a crucial skill for any developer. Knowing how to identify and fix bugs can save you hours of frustration and help you create more stable, reliable software."
+  },
+  {
+    "name": "Introduction to Functional Programming",
+    "description": "Functional programming is a programming paradigm that emphasizes writing code in terms of mathematical functions. Functional programming languages like Clojure are becoming increasingly popular."
   }
 ]
