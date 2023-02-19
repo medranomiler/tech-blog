@@ -72,15 +72,23 @@ This is a proof-of-concept blog app that uses JavaScript, and Handlebars.js. See
 - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 ## Screenshots
-<img width="1014" alt="Screenshot 2023-02-18 at 12 06 29 AM" src="https://user-images.githubusercontent.com/67513942/219844541-c8ddd79c-bd70-46fd-924c-f88b3e576ac1.png">
+<img width="1017" alt="Screenshot 2023-02-19 at 1 24 02 AM" src="https://user-images.githubusercontent.com/67513942/219934874-a04950e7-cf5a-4a9c-83c4-c2356b0618fe.png">
 
-<img width="1014" alt="Screenshot 2023-02-18 at 12 06 17 AM" src="https://user-images.githubusercontent.com/67513942/219844581-3b29757d-68ef-4d4d-9776-fdac7c4dd905.png">
+<img width="1014" alt="Screenshot 2023-02-19 at 1 24 29 AM" src="https://user-images.githubusercontent.com/67513942/219934881-cfc9ee61-83ee-473b-bc3a-7475e7e952c2.png">
 
-<img width="1014" alt="Screenshot 2023-02-18 at 12 08 42 AM" src="https://user-images.githubusercontent.com/67513942/219844550-422dfc8b-2ec8-4063-b7bc-62cb8b89664b.png">
+<img width="1014" alt="Screenshot 2023-02-19 at 1 24 37 AM" src="https://user-images.githubusercontent.com/67513942/219934879-033fdb37-e896-4a2b-800f-5e5a58ea3209.png">
 
-<img width="1014" alt="Screenshot 2023-02-18 at 12 09 36 AM" src="https://user-images.githubusercontent.com/67513942/219844562-2057e2b8-7708-4c78-abbc-95eb5b81dc4c.png">
+<img width="1014" alt="Screenshot 2023-02-19 at 1 25 37 AM" src="https://user-images.githubusercontent.com/67513942/219934878-350c0191-d2fe-4f65-99cd-89ca5d9c37f6.png">
 
-<img width="1014" alt="Screenshot 2023-02-18 at 12 08 56 AM" src="https://user-images.githubusercontent.com/67513942/219844571-5a288dee-a165-4b7b-879f-656640648a3c.png">
+<img width="1014" alt="Screenshot 2023-02-19 at 1 26 33 AM" src="https://user-images.githubusercontent.com/67513942/219934876-69a9954e-f460-40a3-85ce-3175b312ffac.png">
+
+<img width="1014" alt="Screenshot 2023-02-19 at 1 26 23 AM" src="https://user-images.githubusercontent.com/67513942/219934877-442b33d8-6e08-4128-b396-9282e67f291f.png">
+
+
+
+
+
+
 
 ## Contributors
 - [Connor Bodin](https://github.com/connorbodin)
