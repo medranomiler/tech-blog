@@ -72,17 +72,16 @@ This is a proof-of-concept blog app that uses JavaScript, and Handlebars.js. See
 - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 ## Screenshots
-<img width="1017" alt="Screenshot 2023-02-19 at 1 24 02 AM" src="https://user-images.githubusercontent.com/67513942/219934874-a04950e7-cf5a-4a9c-83c4-c2356b0618fe.png">
+<img width="1014" alt="Screenshot 2023-02-20 at 9 53 27 PM" src="https://user-images.githubusercontent.com/67513942/220243706-23556101-c25b-43f6-a64e-a97ec366db25.png">
 
-<img width="1014" alt="Screenshot 2023-02-19 at 1 24 29 AM" src="https://user-images.githubusercontent.com/67513942/219934881-cfc9ee61-83ee-473b-bc3a-7475e7e952c2.png">
+<img width="1014" alt="Screenshot 2023-02-20 at 9 54 13 PM" src="https://user-images.githubusercontent.com/67513942/220243736-6ac7feb4-4741-4443-b278-bb444d739c4a.png">
 
-<img width="1014" alt="Screenshot 2023-02-19 at 1 24 37 AM" src="https://user-images.githubusercontent.com/67513942/219934879-033fdb37-e896-4a2b-800f-5e5a58ea3209.png">
+<img width="1014" alt="Screenshot 2023-02-20 at 9 54 46 PM" src="https://user-images.githubusercontent.com/67513942/220243758-78465eb7-abd9-4f80-b834-27e58d1fb543.png">
 
-<img width="1014" alt="Screenshot 2023-02-19 at 1 25 37 AM" src="https://user-images.githubusercontent.com/67513942/219934878-350c0191-d2fe-4f65-99cd-89ca5d9c37f6.png">
+<img width="1014" alt="Screenshot 2023-02-20 at 9 51 45 PM" src="https://user-images.githubusercontent.com/67513942/220243778-0f650525-c4b2-4c35-ba4e-27d2fc05eb68.png">
 
-<img width="1014" alt="Screenshot 2023-02-19 at 1 26 33 AM" src="https://user-images.githubusercontent.com/67513942/219934876-69a9954e-f460-40a3-85ce-3175b312ffac.png">
+<img width="1014" alt="Screenshot 2023-02-20 at 9 52 17 PM" src="https://user-images.githubusercontent.com/67513942/220243794-e490298d-6c85-438b-a665-8b0bc17078cd.png">
 
-<img width="1014" alt="Screenshot 2023-02-19 at 1 26 23 AM" src="https://user-images.githubusercontent.com/67513942/219934877-442b33d8-6e08-4128-b396-9282e67f291f.png">
 
 
 
